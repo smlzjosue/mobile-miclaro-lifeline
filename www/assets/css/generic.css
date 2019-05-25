@@ -400,7 +400,7 @@ a:hover.linkdefs.termdef {
 
 .menubar {
   height: 50px;
-  width: 100%;
+ /*width: 100%;*/
   float: left;
   background-color: #ef3829;
   font-size: 19.2px;
